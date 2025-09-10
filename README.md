@@ -18,7 +18,7 @@ Focus on delivering clear, actionable insights through storytelling and visualiz
 
 🛠️ Technical Skills
 
-Business Intelligence Tools: Power BI, Excel, Tableau
+Business Intelligence Tools: Power BI, Excel
 
 Data Transformation: Power Query (M Language), ETL techniques
 
@@ -26,7 +26,7 @@ Data Modeling: Star/Snowflake schema, relationships, calculated columns, measure
 
 Analytics: DAX expressions, KPIs, trend analysis, forecasting
 
-Databases & Sources: SQL, CSV, Excel, APIs, Google Analytics
+Databases & Sources: SQL, Excel
 
 📌 Featured Projects
 
