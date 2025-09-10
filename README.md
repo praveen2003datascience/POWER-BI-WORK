@@ -1,4 +1,4 @@
-# POWER-BI-WORK
+# POWER-BI-WORK FOR SALES OF CHOCOLATE
 📊 Power BI Portfolio
 
 Welcome to my Power BI Projects Repository.
